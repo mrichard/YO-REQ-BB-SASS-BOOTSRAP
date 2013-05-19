@@ -11,9 +11,10 @@ Workflow:
 		yo backbone --template-framework=handlebars	//gen the app
 
 	marionette deps:
-		bower install marionette
-		bower install backbone.wreqr
-		bower install backbone.babysitter
+		bower install lodash --save
+		bower install marionette --save
+		bower install backbone.wreqr --save
+		bower install backbone.babysitter --save
 		
 
 	starting point of app:
