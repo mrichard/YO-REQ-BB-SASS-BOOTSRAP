@@ -1,7 +1,8 @@
 require([
     'backbone',
-    'bootstrap'
-], function (Backbone) {
+    'bootstrap',
+    'marionette'
+], function ( Backbone, Marionette ) {
 	'use strict';
     Backbone.history.start();
 });

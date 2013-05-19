@@ -9,6 +9,11 @@ Workflow:
 
 	new app:
 		yo backbone --template-framework=handlebars	//gen the app
+
+	marionette deps:
+		bower install marionette
+		bower install backbone.wreqr
+		bower install backbone.babysitter
 		
 
 	starting point of app:
