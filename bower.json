@@ -12,7 +12,8 @@
     "backbone.marionette": "~1.0.2",
     "backbone.wreqr": "~0.2.0",
     "backbone.babysitter": "~0.0.6",
-    "lodash": "~1.2.1"
+    "require-handlebars-plugin": "~0.4.0",
+    "backbone.marionette.handlebars": "~0.2.0"
   },
   "devDependencies": {}
 }

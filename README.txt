@@ -1,6 +1,8 @@
 Workflow:
 	https://github.com/yeoman/yeoman/wiki/Getting-Started
 	https://github.com/yeoman/generator-backbone
+	https://github.com/SlexAxton/require-handlebars-plugin
+	https://github.com/asciidisco/Backbone.Marionette.Handlebars
 
 	install: 
 		npm install -g yo grunt-cli bower	// install cli tools
