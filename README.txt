@@ -8,6 +8,7 @@ Workflow:
 		npm install -g yo grunt-cli bower	// install cli tools
 		npm install -g generator-mocha		// install mocha gen
 		npm install -g generator-backbone	// install backbone gen
+		npm install -g generator-backbone-amd	//install backbone amd gen
 
 	new app:
 		yo backbone --template-framework=handlebars	//gen the app

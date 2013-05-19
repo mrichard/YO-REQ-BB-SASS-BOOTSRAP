@@ -44,7 +44,7 @@ require.config({
         text: '../bower_components/requirejs-text/text',
         tmpl: "../templates",
 
-        /* handlebars */
+        /* handlebars from the require handlerbars plugin below */
         handlebars: '../bower_components/require-handlebars-plugin/Handlebars',
 
         /* require handlebars plugin - Alex Sexton */
