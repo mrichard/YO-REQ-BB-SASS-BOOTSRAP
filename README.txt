@@ -1,5 +1,3 @@
-SIT app:
-
 Workflow:
 	https://github.com/yeoman/yeoman/wiki/Getting-Started
 	https://github.com/yeoman/generator-backbone
@@ -51,27 +49,5 @@ Front End:
 	underscore
 	jquery
 	
-
-
-
-
-USER STORIES:
-As a user I would like to be able to log on
-As a user I would like to submit new proposals POST /proposals/new
-As a user I would like to view all proposals in order of most popular GET /proposals/
-As a user I would like to filter proposals by ones I submitted 
-As a user I would like to be able to edit a proposal POST /proposals/123
-As a user I would like to delete proposals I no longer like
-CRUD on proposals
-Create on account
-As a user I would like to be able to vote for proposals
-As a user I would like to see real time new proposals
-As a users I would like to see real time votes for new proposals
-Proposal
-Title
-Create date
-Description
-Created by 
-Votes
 
 

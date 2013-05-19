@@ -1,6 +1,7 @@
 node_modules
 temp
 dist
+USER STORIES.txt
 .sass-cache
 app/bower_components
 .tmp/
