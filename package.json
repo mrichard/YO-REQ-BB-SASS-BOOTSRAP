@@ -31,8 +31,8 @@
     "matchdep": "~0.1.2",
     "generator-mocha": "~0.1.1",
     "generator-backbone": "~0.1.2",
-    "generator-backbone-amd": "0.0.2",
-    "generator-express": "~0.1.2"
+    "generator-express": "~0.1.2",
+    "generator-backbone-amd": "git://github.com/mrichard/generator-backbone-amd.git"
   },
   "engines": {
     "node": ">=0.8.0"
